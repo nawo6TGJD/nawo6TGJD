@@ -1,3 +1,4 @@
+![logo](https://github.com/nawo6TGJD/nawo6TGJD/blob/main/Green%20and%20White%20Minimalist%20Business%20Profile%20with%20Photo%20Profile%20LinkedIn%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Nawodya Wijesekara</h1>
 <h3 align="center">Full-Stack Developer | Flutter • React Native • React.js • Node.js • Spring</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmlhd3JzMTk0bmE4bGZ6c3VhcXUyNDI4NHRtaTk3cjZ3b3plNmhpciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PoHs1Ne8rcMuZRJted/giphy.gif">
