@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nawodya Wijesekara</h1>
 <h3 align="center">Full-Stack Developer | Flutter • React Native • React.js • Node.js • Spring</h3>
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3psYnBjOTZobWQzaGx4dGZiY3BzazhreWJpOWl4cmQ0bW9odDk3cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDZmZG5mMDUwc2R0NDA4Z3V0aWh5ZTczY3hzM2dpOWxvcHk4Zm4xNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nawo6tgjd&label=Profile%20views&color=0e75b6&style=flat" alt="nawo6tgjd" /> </p>
 
