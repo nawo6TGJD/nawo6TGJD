@@ -1,7 +1,7 @@
 ![logo](https://github.com/nawo6TGJD/nawo6TGJD/blob/main/Green%20and%20White%20Minimalist%20Business%20Profile%20with%20Photo%20Profile%20LinkedIn%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Nawodya Wijesekara</h1>
 <h3 align="center">Full-Stack Developer | Flutter • React Native • React.js • Node.js • Spring</h3>
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXRwNGpnZ2lwN3FvaWNucXVlbTZtczMyMWR0cDkzMWQ1bWs5d3V2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uB86ZyWQsnFSGYe2sA/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnB4aHpsOHZuMzZtZ2E4ODA1bXp2ZTdpZmozcmRycWpsdzZwcnVlYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cNfIqjpCY1zqfaLmd8/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nawo6tgjd&label=Profile%20views&color=0e75b6&style=flat" alt="nawo6tgjd" /> </p>
 
