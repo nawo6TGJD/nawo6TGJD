@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nawodya</h1>
 <h3 align="center">💻 A passionate Full-Stack Developer specializing in Flutter & React Native for mobile, React.js for web, and Node.js & Spring for backend. I love building seamless, scalable apps and turning ideas into reality 🚀</h3>
 
-<img align="left" alt="Coding" width="500" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmdxdjAwbDRxeGc3a3Nrd281eXBudHN3dGNxNzdmaDFsNG5zN3pwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
-<img align="right" alt="Coding" width="500" height="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExenl1aWx5ZHhxODAxdTB5MjhpaTdnZ290cnlqMjF2MXRoZnoxdGFhaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif">
+<img align="left" alt="Coding" width="700" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmdxdjAwbDRxeGc3a3Nrd281eXBudHN3dGNxNzdmaDFsNG5zN3pwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nawo6tgjd&label=Profile%20views&color=0e75b6&style=flat" alt="nawo6tgjd" /> </p>
