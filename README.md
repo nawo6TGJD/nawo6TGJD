@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nawodya</h1>
 <h3 align="center">💻 A passionate Full-Stack Developer specializing in Flutter & React Native for mobile, React.js for web, and Node.js & Spring for backend. I love building seamless, scalable apps and turning ideas into reality 🚀</h3>
 
+<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmdxdjAwbDRxeGc3a3Nrd281eXBudHN3dGNxNzdmaDFsNG5zN3pwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nawo6tgjd&label=Profile%20views&color=0e75b6&style=flat" alt="nawo6tgjd" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nawo6tgjd" alt="nawo6tgjd" /></a> </p>
