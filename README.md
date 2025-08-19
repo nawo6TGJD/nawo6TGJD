@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **hansani9743@gmail.com**
 
-- ⚡ Fun fact **☕ I debug faster with coffee!**
+- ⚡ Fun fact **☕ I debug faster with coffee! 🚀🐞**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
