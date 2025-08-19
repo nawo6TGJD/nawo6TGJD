@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **🤖 NLP & Deep Learning | 🔬 ML | ⚡ Next.js**
 
-- 💬 Ask me about **MERN Stack | Flutter & React Native**
+- 💬 Ask me about **🌐 MERN Stack | 📱 Flutter & React Native**
 
 - 📫 How to reach me **hansani9743@gmail.com**
 
