@@ -11,7 +11,7 @@
 
 - 💬 Ask me about 🌐 MERN Stack | 📱 Flutter & React Native 
 
-- 📫 How to reach me ** hansani9743@gmail.com **
+- 📫 How to reach me  hansani9743@gmail.com 
 
 - ⚡ Fun fact **☕ I debug faster with coffee!🐞**
 
